@@ -1,0 +1,56 @@
+.env
+*.csv
+*.json
+*.log
+*.sqlite3
+*.db
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+*.eggs/
+__pycache__/
+.idea/ 
+.vscode/ 
+.DS_Store
+# Ignore Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+# Ignore Python virtual environments
+venv/
+env/
+ENV/
+.venv/
+# Ignore local settings
+settings.py
+local_settings.py
+local_settings.json
+# Ignore macOS system files
+.AppleDouble
+.LSOverride
+Icon?
+._*
+.Spotlight-V100
+.Trashes
+# Ignore Windows system files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+# Ignore Linux system files
+.directory
+.cache/
+.cache/
+.mypy_cache/
+.mypy_cache/
+.pytest_cache/
+pytest_cache/
+.mypy_cache/
+.mypy_cache/
+.pytest_cache/
+pytest_cache/
+__pycache__/
+.Python
+.python-version
+
+# End of file.
